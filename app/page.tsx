@@ -24,7 +24,7 @@ export default function Home() {
         <p>{ipSix}</p>
       </main>
       <footer className={styles.footer}>
-        Powered by <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">Next.js</a> + <a href="https://www.ipify.org/" target="_blank" rel="noopener noreferrer">ipify</a>&nbsp;&copy; {new Date().getFullYear()} Javier Martinez &#91;<a href="#">GitHub</a>&#93; MIT License
+        Powered by <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">Next.js</a> + <a href="https://www.ipify.org/" target="_blank" rel="noopener noreferrer">ipify</a>&nbsp;&copy; {new Date().getFullYear()} Javier Martinez &#91;<a href="https://github.com/hoogmin/findmyip">GitHub</a>&#93; MIT License
       </footer>
     </>
   )
